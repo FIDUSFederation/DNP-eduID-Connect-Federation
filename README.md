@@ -1,1 +1,1 @@
-# DNP_eduID_Connect_Federation
+# DNP eduID Connect Federation
