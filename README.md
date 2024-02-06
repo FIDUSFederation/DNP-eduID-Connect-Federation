@@ -5,3 +5,5 @@ Med Vetenskapsrådets tjänst eduID Connect erbjuds skolhuvudmän som saknar ege
 Syftet med DNP eduID Connect Federation är att skolhuvudmän som väljer eduID Connect ska kunna logga in mot provtjänsten via interfederationen FIDUS. Federationen är av teknisk karaktär som endast används för åtkomst till Skolverkets provtjänst.
 
 [Federationens Policy](policy-dnp-eduid-connect-federation.md)
+
+[SAML WebSSO Technology Profile]()
