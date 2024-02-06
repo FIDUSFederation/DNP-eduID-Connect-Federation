@@ -6,4 +6,4 @@ Syftet med DNP eduID Connect Federation är att skolhuvudmän som väljer eduID 
 
 [Federationens Policy](policy-dnp-eduid-connect-federation.md)
 
-[SAML WebSSO Technology Profile]()
+[SAML WebSSO Technology Profile](DNP-eduID-Connect-Federation-SAML-WebSSO-Technology-Profile-v1.0.pdf)
